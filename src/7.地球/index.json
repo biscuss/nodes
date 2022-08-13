@@ -1,0 +1,587 @@
+[
+  {
+    "index": 1007000000,
+    "name": "地球",
+    "aliases": "utc,earth",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000001,
+    "name": "日本",
+    "aliases": "japan,jp",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000002,
+    "name": "美国",
+    "aliases": "us",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000003,
+    "name": "加拿大",
+    "aliases": "canada,ca",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000004,
+    "name": "Singapore",
+    "aliases": "sg,singapore",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000005,
+    "name": "中国",
+    "aliases": "cn",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000006,
+    "name": "德国",
+    "aliases": "de",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000007,
+    "name": "冰岛",
+    "aliases": "iceland",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000008,
+    "name": "韩国",
+    "aliases": "kr",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000009,
+    "name": "墨西哥",
+    "aliases": "mx",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000010,
+    "name": "北京",
+    "aliases": "beijing",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000011,
+    "name": "上海",
+    "aliases": "pvg,shanghai",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000012,
+    "name": "深圳",
+    "aliases": "shenzhen",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000013,
+    "name": "杭州",
+    "aliases": "hangzhou",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000014,
+    "name": "成都",
+    "aliases": "chengdu",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000015,
+    "name": "广州",
+    "aliases": "guangzhou",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000016,
+    "name": "武汉",
+    "aliases": "wuhan",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000017,
+    "name": "南京",
+    "aliases": "nanjing",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000018,
+    "name": "西安",
+    "aliases": "xian",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000019,
+    "name": "长沙",
+    "aliases": "changsha",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000020,
+    "name": "重庆",
+    "aliases": "chongqing",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000021,
+    "name": "昆明",
+    "aliases": "kunming",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000022,
+    "name": "苏州",
+    "aliases": "suzhou",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000023,
+    "name": "厦门",
+    "aliases": "xiamen",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000024,
+    "name": "天津",
+    "aliases": "tianjin",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000025,
+    "name": "青岛",
+    "aliases": "qingdao",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000026,
+    "name": "郑州",
+    "aliases": "zhengzhou",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000027,
+    "name": "香港",
+    "aliases": "hongkong",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000028,
+    "name": "大连",
+    "aliases": "dalian",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000029,
+    "name": "济南",
+    "aliases": "jinan",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000030,
+    "name": "福州",
+    "aliases": "fuzhou",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000031,
+    "name": "无锡",
+    "aliases": "wuxi",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000032,
+    "name": "珠海",
+    "aliases": "zhuhai",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000033,
+    "name": "长春",
+    "aliases": "changchun",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000034,
+    "name": "贵阳",
+    "aliases": "guiyang",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000035,
+    "name": "滕州",
+    "aliases": "tengzhou",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000036,
+    "name": "澳门",
+    "aliases": "macau",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000037,
+    "name": "哈尔滨",
+    "aliases": "harbin",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000038,
+    "name": "桂林",
+    "aliases": "guilin",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000039,
+    "name": "南昌",
+    "aliases": "nanchang",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000040,
+    "name": "兰州",
+    "aliases": "lanzhou",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000041,
+    "name": "三亚",
+    "aliases": "sanya",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000042,
+    "name": "扬州",
+    "aliases": "yangzhou",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000043,
+    "name": "保定",
+    "aliases": "baoding",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000044,
+    "name": "呼和浩特",
+    "aliases": "hohhot",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000045,
+    "name": "海口",
+    "aliases": "haikou",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000046,
+    "name": "丽江",
+    "aliases": "lijiang",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000047,
+    "name": "新余",
+    "aliases": "xinyu",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000048,
+    "name": "岳阳",
+    "aliases": "yueyang",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000049,
+    "name": "大理",
+    "aliases": "dali",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000050,
+    "name": "遵义",
+    "aliases": "zunyi",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000051,
+    "name": "西宁",
+    "aliases": "xining",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000052,
+    "name": "铜仁",
+    "aliases": "tongren",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000053,
+    "name": "大庆",
+    "aliases": "daqing",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000054,
+    "name": "东京",
+    "aliases": "hnd,tokyo",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000055,
+    "name": "New York",
+    "aliases": "ny,jfk,nyc",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000056,
+    "name": "Los Angeles",
+    "aliases": "lax,la",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000057,
+    "name": "California",
+    "aliases": "california",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000058,
+    "name": "欧洲",
+    "aliases": "europe",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000059,
+    "name": "英国",
+    "aliases": "gb,uk",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000060,
+    "name": "宁波",
+    "aliases": "ningbo",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000061,
+    "name": "沈阳",
+    "aliases": "shenyang",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000062,
+    "name": "台湾",
+    "aliases": "tw",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000063,
+    "name": "法国",
+    "aliases": "france",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1007000064,
+    "name": "瑞典",
+    "aliases": "se",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  }
+]

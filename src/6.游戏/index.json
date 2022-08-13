@@ -1,0 +1,596 @@
+[
+  {
+    "index": 1006000000,
+    "name": "游戏",
+    "aliases": "game,games",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000001,
+    "name": "Steam",
+    "aliases": "steam",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000002,
+    "name": "英雄联盟",
+    "aliases": "lol",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000003,
+    "name": "Diablo III",
+    "aliases": "d3,diablo,diablo3",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000004,
+    "name": "Minecraft",
+    "aliases": "mc,optifine,minecraft",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000005,
+    "name": "iGame",
+    "aliases": "igame",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000006,
+    "name": "DOTA",
+    "aliases": "dota",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000007,
+    "name": "StarCraft 2",
+    "aliases": "sc2",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000008,
+    "name": "World of Warcraft",
+    "aliases": "wow",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000009,
+    "name": "王者荣耀",
+    "aliases": "5v5",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000010,
+    "name": "Overwatch",
+    "aliases": "overwatch",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000011,
+    "name": "Hearthstone",
+    "aliases": "hearthstone",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000012,
+    "name": "EVE",
+    "aliases": "eve",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000013,
+    "name": "精灵宝可梦",
+    "aliases": "pokemon",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000014,
+    "name": "游戏主机",
+    "aliases": "consoles",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000015,
+    "name": "Grand Theft Auto",
+    "aliases": "gta",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000016,
+    "name": "赛博朋克 2077",
+    "aliases": "cyberpunk,cyberpunk2077,2077",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000017,
+    "name": "文明系列",
+    "aliases": "civ",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000018,
+    "name": "SimCity",
+    "aliases": "simcity",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000019,
+    "name": "Metal Gear Solid",
+    "aliases": "mgs",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000020,
+    "name": "PUBG",
+    "aliases": "pubg",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000021,
+    "name": "Call of Duty",
+    "aliases": "cod",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000022,
+    "name": "Anno",
+    "aliases": "anno1800,anno",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000023,
+    "name": "上古卷轴 V",
+    "aliases": "skyrim",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000024,
+    "name": "Heroes of the Storm",
+    "aliases": "hots,hos",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000025,
+    "name": "DUST 514",
+    "aliases": "dust514",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000026,
+    "name": "Guild Wars 2",
+    "aliases": "gw2",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000027,
+    "name": "Portal series",
+    "aliases": "portal",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000028,
+    "name": "戴森球计划",
+    "aliases": "dyson",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000029,
+    "name": "最终幻想",
+    "aliases": "ff",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000030,
+    "name": "Alienware",
+    "aliases": "alienware",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000031,
+    "name": "微软飞行模拟",
+    "aliases": "flightsim,msfs",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000032,
+    "name": "魂系游戏",
+    "aliases": "eldenring,soulslike",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000033,
+    "name": "阴阳师",
+    "aliases": "onmyoji",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000034,
+    "name": "Diablo II",
+    "aliases": "diablo2",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000035,
+    "name": "Apex Legends",
+    "aliases": "apex",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000036,
+    "name": "Stadia",
+    "aliases": "stadia",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000037,
+    "name": "Apple Arcade",
+    "aliases": "applearcade",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000038,
+    "name": "魔兽争霸",
+    "aliases": "warcraft",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000039,
+    "name": "泰拉瑞亚",
+    "aliases": "terraria",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000040,
+    "name": "雷神之锤系列",
+    "aliases": "quake",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000041,
+    "name": "OBS",
+    "aliases": "obs",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000042,
+    "name": "星际争霸",
+    "aliases": "starcraft",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000043,
+    "name": "Battlefield 系列",
+    "aliases": "bf",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000044,
+    "name": "Need for Speed",
+    "aliases": "nfs",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000045,
+    "name": "生存游戏 Rust",
+    "aliases": "playrust",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000046,
+    "name": "Origin",
+    "aliases": "origin",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000047,
+    "name": "Besiege",
+    "aliases": "besiege",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000048,
+    "name": "仙剑奇侠传",
+    "aliases": "pal",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000049,
+    "name": "太吾绘卷",
+    "aliases": "taiwu",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000050,
+    "name": "Destiny",
+    "aliases": "destiny",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000051,
+    "name": "RAGE",
+    "aliases": "rage",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000052,
+    "name": "Battlefield Hardline",
+    "aliases": "bfh",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000053,
+    "name": "Wargaming",
+    "aliases": "wargaming",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000054,
+    "name": "Resident Evil 5",
+    "aliases": "re5",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000055,
+    "name": "Battle for Wesnoth",
+    "aliases": "wesnoth",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000056,
+    "name": "街机游戏",
+    "aliases": "arcade",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000057,
+    "name": "XCOM",
+    "aliases": "xcom",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000058,
+    "name": "Fortnite",
+    "aliases": "fortnite",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000059,
+    "name": "GameDB",
+    "aliases": "gamedb",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000060,
+    "name": "AirMech Arena",
+    "aliases": "airmech",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000061,
+    "name": "Battlefield 3",
+    "aliases": "bf3",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000062,
+    "name": "怀旧游戏",
+    "aliases": "retro",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000063,
+    "name": "剑灵",
+    "aliases": "bns",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000064,
+    "name": "桌游",
+    "aliases": "boardgame",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1006000065,
+    "name": "塞尔达传说",
+    "aliases": "zelda",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  }
+]

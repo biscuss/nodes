@@ -1,0 +1,29 @@
+[
+  {
+    "index": 1005000000,
+    "name": "理财",
+    "aliases": "financial",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1005000001,
+    "name": "外汇交易",
+    "aliases": "forex",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1005000002,
+    "name": "天使投资",
+    "aliases": "angel",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  }
+]

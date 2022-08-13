@@ -1,0 +1,56 @@
+[
+  {
+    "index": 1999000000,
+    "name": "无要点",
+    "aliases": "pointless",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1999000001,
+    "name": "水",
+    "aliases": "flood",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1999000002,
+    "name": "水深火热",
+    "aliases": "flamewar",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1999000003,
+    "name": "Biscuss",
+    "aliases": "",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1999000004,
+    "name": "新手求助",
+    "aliases": "newbie",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1999000005,
+    "name": "请不要再发这样的文章",
+    "aliases": "ohno",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  }
+]

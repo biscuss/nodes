@@ -1,0 +1,29 @@
+[
+  {
+    "index": 1002000000,
+    "name": "教育",
+    "aliases": "edu",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1002000001,
+    "name": "大学",
+    "aliases": "u",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  },
+  {
+    "index": 1002000002,
+    "name": "北京大学",
+    "aliases": "pku",
+    "description": "",
+    "website": "",
+    "twitter": "",
+    "img_url": ""
+  }
+]
